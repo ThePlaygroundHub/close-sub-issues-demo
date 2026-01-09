@@ -1,1 +1,1 @@
-# test-close-sub-issues
+# Close Sub-issues Automatically
